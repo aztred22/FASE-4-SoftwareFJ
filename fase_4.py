@@ -13,9 +13,6 @@ print("se crea el archivo que logger.py")
 print("se crea el archivo main.py")
 print("se crea el archivo entidad.py")
 
-# Registro de ramas
-ramas_equipo = ["main", "develop", "feature/fabian", "feature/alejandro"]
-print(f"Ramas activas en el repositorio: {len(ramas_equipo)}")
 
 comandos_git = [
     "git init",
