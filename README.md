@@ -52,4 +52,5 @@ El programa no se detiene ante ningún error.
 `PENDIENTE` → `CONFIRMADA` → (opcionalmente) `CANCELADA`. No se puede confirmar una reserva cancelada ni cancelar dos veces la misma.
 
 ## Trabajo colaborativo
-Repositorio gestionado con Git; cada integrante trabajó en su propia rama.
+Intente comunicarme durante varias semanas con los compañeros para consolidar el proyecto de forma colaborativa, mas sin embargo debido a la negativa, decidi entregarlo de forma individual, para no retrasarme en los tiempos de entrega de proyecto.
+
